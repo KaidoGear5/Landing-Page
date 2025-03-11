@@ -10,3 +10,9 @@
 ## Protótipo
 
 [Netlify Protótipo](https://673c084134758a0008f2c132--tangerine-selkie-59aaee.netlify.app)
+
+
+## Vídeo
+<video width="100%" controls>
+  <source src="(https://github.com/Bmpin/PI_Senac_Grupo14_Period/issues/7#issue-2908917946)" type="video/mp4">
+</video>
