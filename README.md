@@ -13,6 +13,4 @@
 
 
 ## Vídeo
-<video width="100%" controls>
-  <source src="(https://github.com/Bmpin/PI_Senac_Grupo14_Period/issues/7#issue-2908917946)" type="video/mp4">
-</video>
+[🎬 Assista à demonstração](https://github.com/Bmpin/PI_Senac_Grupo14_Period/issues/7#issue-2908917946)
